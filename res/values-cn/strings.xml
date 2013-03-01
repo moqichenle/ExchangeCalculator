@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">计算器</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">设置</string>
+    
+    <string name="input_value">输入值</string>
+    <string name="calculate">计算</string>
+
+</resources>
